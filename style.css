@@ -1,0 +1,15 @@
+#status{
+    width: 10px;
+    height:10px;
+
+}
+
+.weak{
+    background: red;
+}
+.good{
+    background: orange;
+}
+.verygood{
+    background: green;
+}
